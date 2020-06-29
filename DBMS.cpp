@@ -158,7 +158,7 @@ int main()
 
             break;
 
-        case '5':         closing the file and exiting 
+        case '5':         //closing the file and exiting 
             fclose(fp);
             cout << "\n\n";
             cout << "\t\t     
